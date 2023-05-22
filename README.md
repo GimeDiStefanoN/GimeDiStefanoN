@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gimena Di Stefano.</h1>
+
+<img src="https://github.com/GimeDiStefanoN/GimeDiStefanoN/assets/97200944/713f5679-5f35-4a8c-8430-c4d05efbaa8a" alt="banner that says GDN DEV. If you can imagine it, you can program it ">
+
+
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina.</h3>
 <h3 align="center">And I keep studying to expand my knowledge about BackEnd</h3>
+
+<br>
 
 - 🔭 I’m currently working on [Filhote Shop, which is an ecommerce dedicated to the sale of pet products. It is in development.](https://github.com/GimeDiStefanoN/DiStefano-FilhoteShop)
 
@@ -9,13 +15,7 @@
 - 👨‍💻 I made a dynamic website project, for Amazing Events. The technologies used were HTML, CSS, Bootstrap and Javascript. The data was incorporated using the Fetch API. I am currently upgrading the project to VUE [https://amazing-events-website.vercel.app/](https://amazing-events-website.vercel.app/)
 
 - 👨‍💻 I made a static website project, for the Mighty Ducks Hockey League. The technologies used were HTML and CSS. [https://website-mdhl.vercel.app/index.html](https://website-mdhl.vercel.app/index.html)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gimena-di-stefano-nicolina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gimena-di-stefano-nicolina" height="30" width="40" /></a>
-<a href="https://www.behance.net/gdistefano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gdistefano" height="30" width="40" /></a>
-</p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -37,4 +37,10 @@
   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
+<br>
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gimena-di-stefano-nicolina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gimena-di-stefano-nicolina" height="30" width="40" /></a>
+<a href="https://www.behance.net/gdistefano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gdistefano" height="30" width="40" /></a>
+</p>
